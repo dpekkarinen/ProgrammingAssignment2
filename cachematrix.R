@@ -1,5 +1,5 @@
 ## Assignment 2: These functions can be used to create a special
-## matrx object that will cache its inverse. This is useful
+## matrix object that will cache its inverse. This is useful
 ## since inversion can be a costly operation.
 
 ## This function will create a special matrix object that has the
